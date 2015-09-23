@@ -10,3 +10,5 @@ This Repo git clone https://github.com/Galaxyobe/esp_iot_sdk.git
 
 
 v1.3.0 base on esp_iot_sdk_v1.3.0_15_08_08
+
+v1.4.0 base on esp_iot_sdk_v1.4.0_15_09_18
